@@ -1,11 +1,5 @@
 ### Hey there 👋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/soluv)
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" />
-</p>
 
 📫 **Connect with me:** • [Email](mailto:9146321@stud.op.edu.ua)
 
@@ -13,7 +7,6 @@ CS student passionate about mobile app development and UI design. I don't claim 
 
 > [!NOTE] 
 > The creative inspiration and product direction come from me. AI helps me write the initial code and bridge technical gaps, and from there, I study what it generated, troubleshoot issues, and learn how everything works through hands-on practice.
-
 ---
 
 ### 📚 What I'm Learning & Doing
@@ -24,9 +17,20 @@ CS student passionate about mobile app development and UI design. I don't claim 
 
 > [!TIP]
 > Always open to advice, constructive critique, and learning from more experienced engineers.
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" />
+</p>
 
 ```text
 🌱 Currently learning:  State management & UI architecture
 💡 Exploring:           Figma-to-Code workflows & Penpot components
 🎯 Goal for 2026:       Ship my first polished mobile app release
 ```
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=so1uv&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=so1uv&layout=compact&theme=dark"/>
+</p>
