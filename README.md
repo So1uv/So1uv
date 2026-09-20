@@ -1,36 +1,62 @@
-### Hey there 👋
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/soluv)
+# Hey there, I'm Soluv 👋
 
-📫 **Connect with me:** • [Email](mailto:9146321@stud.op.edu.ua)
+CS student interested in **Android development, UI/UX, and product design**.
 
-CS student passionate about mobile app development and UI design. I don't claim to have years of hardcore coding experience — instead, I bring the ideas and vision, and use AI as my hands to help turn concepts into working code.
+I enjoy turning ideas into working applications — from designing interfaces and thinking through product behavior to experimenting with implementation and learning how everything works under the hood.
 
-> [!NOTE] 
-> The creative inspiration and product direction come from me. AI helps me write the initial code and bridge technical gaps, and from there, I study what it generated, troubleshoot issues, and learn how everything works through hands-on practice.
----
-
-### 📚 What I'm Learning & Doing
-
-* 📱 **Mobile Development:** Exploring mobile app engineering with a focus on modern frameworks, UI architecture, and creating smooth user experiences (currently spending a lot of time with Kotlin & Android).
-* 🎨 **UI/UX & Prototyping:** Visualizing screens and building interfaces in **Figma** and **Penpot** before turning them into code.
-* 🤖 **Prompt Engineering:** Mastering structured prompting to effectively communicate intent, generate clean boilerplate, and break down complex engineering concepts.
-
-> [!TIP]
-> Always open to advice, constructive critique, and learning from more experienced engineers.
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" />
+  <a href="https://ko-fi.com/soluv">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg" />
+  </a>
+  <a href="mailto:9146321@stud.op.edu.ua">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail1.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/soluv/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" />
+  </a>
 </p>
 
-```text
-🌱 Currently learning:  State management & UI architecture
-💡 Exploring:           Figma-to-Code workflows & Penpot components
-🎯 Goal for 2026:       Ship my first polished mobile app release
-```
+> [!TIP]
+> If you notice something in one of my projects that could be implemented better, feel free to open an issue, start a discussion, or contact me directly.
+
+## 🚀 Current Focus
+
+* 📱 Building and experimenting with **Android applications**
+* 🟣 Learning **Kotlin** and modern Android development
+* 🧩 Exploring application architecture and better code structure
+* ✨ Creating modern interfaces with **Material Design 3**
+* 🎨 Designing and prototyping interfaces in **Figma** and **Penpot**
+* ⚡ Improving UI animations, responsiveness, and overall user experience
+* 🤖 Learning how to use AI effectively as part of a development workflow
+
+## 🛠️ How I work
+
+I usually start with the **idea, product direction, UX, and visual concept**, then work toward a functional implementation.
+
+AI is part of my development workflow: I use it to explore implementations, generate initial code, understand unfamiliar concepts, debug problems, and speed up repetitive work.
+
+I don't treat generated code as a black box — I try to understand it, modify it, troubleshoot it, and learn from the process.
+
+> [!NOTE]
+> I'm still learning, experimenting, breaking things, rebuilding them, and gradually becoming a better developer.
+
+**Currently working with:**
+<p align="left">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" />
+</p>
+
+## 🧭 My Goal
+
+I'm currently focused on becoming a stronger Android developer by
+building real projects, studying the code behind them, and gradually
+taking on more of the implementation myself.
+
+## 📊 GitHub
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=so1uv&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=so1uv&layout=compact&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=so1uv&show_icons=true&show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&theme=transparent" />
 </p>
