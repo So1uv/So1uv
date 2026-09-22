@@ -21,11 +21,10 @@ I enjoy turning ideas into working applications — from designing interfaces an
 
 ## 🚀 Current Focus
 
-* 📱 Building and experimenting with **Android applications**
-* 🟣 Learning **Kotlin** and modern Android development
+* 📱 Learning **Kotlin** and experimenting with **Android applications**
 * 🧩 Exploring application architecture and better code structure
 * ✨ Creating modern interfaces with **Material Design 3**
-* 🎨 Designing and prototyping interfaces in **Figma** and **Penpot**
+* 🎨 Designing and prototyping interfaces in **Figma**
 * ⚡ Improving UI animations, responsiveness, and overall user experience
 * 🤖 Learning how to use AI effectively as part of a development workflow
 
