@@ -54,9 +54,3 @@ I don't treat generated code as a black box — I try to understand it, modify i
 I'm currently focused on becoming a stronger Android developer by
 building real projects, studying the code behind them, and gradually
 taking on more of the implementation myself.
-
-## 📊 GitHub
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=so1uv&show_icons=true&show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&theme=transparent" />
-</p>
